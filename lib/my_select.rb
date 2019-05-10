@@ -1,3 +1,3 @@
 def my_select(collection)
- # your code here!
+ collection.map.select {|x| x.even?}
 end
