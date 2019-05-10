@@ -1,7 +1,3 @@
-# def my_select(collection)
-# collection.map.select {|x| x.even?}
-# end
-
 def my_select(collection)
   i = 0
   select = []
